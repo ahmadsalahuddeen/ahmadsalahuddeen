@@ -22,8 +22,8 @@ I Update my Journey of becoming  a developer daily in Socials. and i'm on #365da
 ## Get in touch :coffee:
 
 - Your future buddy to discuss Programming related things and tech in general on [Twitter](https://twitter.com/salahuddeen6017).
--                                                                            and [Instagram](https://www.instagram.com/swalahcodes/).
--                                                                            and [YouTube](https://www.youtube.com/channel/UCOyK9QcS9N_Fn_2OVbuH7qQ).
+- and [Instagram](https://www.instagram.com/swalahcodes/).
+- and [YouTube](https://www.youtube.com/channel/UCOyK9QcS9N_Fn_2OVbuH7qQ).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/ahmad-salahuddeen-55357b158)
 - And of course GitHub you're already on (Recursion).
 
