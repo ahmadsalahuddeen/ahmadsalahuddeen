@@ -21,15 +21,15 @@
 
 - 👨‍💻 Your future buddy to discuss Programming related things and tech in general on #365daysofcodingchallange [Twitter](https://twitter.com/salahuddeen6017)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmadsalahuddeen](https://github.com/ahmadsalahuddeen)
+- 👨‍💻 All of my projects are available  [here⚠️](https://github.com/ahmadsalahuddeen)
 
-- 📝 Follow my journey on Instagram [https://www.instagram.com/salahcodes/](https://www.instagram.com/salahcodes/)
+- 📝 Follow my journey on  [Instagram](https://www.instagram.com/salahcodes/)
 
 - 💬 Ask me about **nodejs, content creation(beginner), coffee, Mern stack except about react😁**
 
-- 📫 How to reach me **ahmadsalahuddeen6017@gmail.com**
+- 📫 How to reach me **ahmadsalahuddeen6017@gmail.com** 
 
-- 📄Your future employee on LinkedIn [https://www.linkedin.com/in/ahmad-salahuddeen-55357b158/](https://www.linkedin.com/in/ahmad-salahuddeen-55357b158/)
+- 📄Your future employee on  [LinkedIn](https://www.linkedin.com/in/ahmad-salahuddeen-55357b158/)
 
 - ⚡ And of course GitHub you're already on (Recursion). **🔁**
 
