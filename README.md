@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/salahuddeen6017" target="blank"><img src="https://img.shields.io/twitter/follow/salahuddeen6017?logo=twitter&style=for-the-badge" alt="salahuddeen6017" /></a> </p>
 
-- 🔭 I’m currently working on [Electro⚡ electronic Ecommerce project](https://github.com/ahmadsalahuddeen/elcectronic-onlineShopping)
+- 🔭 I’m currently working on [Documneting my data structure learning Journey ](https://github.com/ahmadsalahuddeen/documentingDataStructureJourney)
 
 - 🌱 I’m currently learning **Typescript, React js**
 
