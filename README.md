@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/salahuddeen6017" target="blank"><img src="https://img.shields.io/twitter/follow/salahuddeen6017?logo=twitter&style=for-the-badge" alt="salahuddeen6017" /></a> </p>
 
-- 🔭 I’m currently working on [Documneting my data structure learning Journey ](https://github.com/ahmadsalahuddeen/documentingDataStructureJourney)
+- 🔭 I’m currently working on [FitSync - a multi-tenant Saas for gym owners with microservice architecture ](https://github.com/ahmadsalahuddeen/FitSync-multi-tenant-saas)
 
 - 🌱 I’m currently learning **Typescript, React js**
 
