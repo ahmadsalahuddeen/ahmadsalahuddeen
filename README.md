@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/salahuddeen6017" target="blank"><img src="https://img.shields.io/twitter/follow/salahuddeen6017?logo=twitter&style=for-the-badge" alt="salahuddeen6017" /></a> </p>
 
-- 🔭 I’m currently working on [FitSync - a multi-tenant Saas for gym owners with microservice architecture ](https://github.com/ahmadsalahuddeen/FitSync-multi-tenant-saas)
+- 🔭 I’m currently working on [Scope - A multivendor B2B2B agency builder for agency owners with funnel builder/hosting, kannbhan board and many moree ..  ](https://github.com/ahmadsalahuddeen/scope-agency-builder)
 
 - 🌱 I’m currently learning **Typescript, React js**
 
